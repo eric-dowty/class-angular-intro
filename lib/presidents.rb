@@ -1,6 +1,6 @@
 PRESIDENTS = [
   { name: 'George Washington', startYear: 1789, endYear: 1797 },
-  { name: 'John Adams', startYear: 1797, endYear: 1801 },
+  { name: 'John J. Adams', startYear: 1797, endYear: 1801 },
   { name: 'Thomas Jefferson', startYear: 1801, endYear: 1809 },
   { name: 'James Madison', startYear: 1809, endYear: 1817 },
   { name: 'James Monroe', startYear: 1817, endYear: 1825 },
